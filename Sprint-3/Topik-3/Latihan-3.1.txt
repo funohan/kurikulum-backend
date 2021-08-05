@@ -1,0 +1,25 @@
+=> Pengertian 1NF :
+
+    *Sebuah tabel dapat dikatakan 1NF ketika setiap atribut dari data tersebut hanya memiliki nilai tunggal dalam satu baris.
+
+=> Pengertian 2NF :
+
+    *2NF adalah tidak diperkenankan adanya partial “functional dependency“ kepada primary key dalam sebuah tabel.
+
+      *Functional dependency adalah setiap atribut yang bukan kunci (non key) bergantung secara fungsional terhadap primary key.
+
+=> Pengertian 3NF :
+
+    *3NF tidak diperkenankan adanya partial “transitive dependency“ dalam sebuah tabel.
+
+      *Transitive dependency biasanya terjadi pada tabel hasil relasi, atau kondisi dimana terdapat tiga atribut A, B, C. Kondisinya adalah A ⇒ B dan B ⇒ C. Maka C dikatakan sebagai transitive dependency terhadap A melalui B.
+
+
+===========================================>Penjelasan<=====================================================================
+
+ 1. One to one merupakan dimana 1 barang punya 1 supplier.
+ 2. One to many merupakan 1 supplier yang punya banyak barang.
+ 3. Many to many merupakan 1 supplier yang bisa menampung banyak barang, dan barang bisa di miliki oleh banyak supplier juga
+
+
+============================================================================================================================

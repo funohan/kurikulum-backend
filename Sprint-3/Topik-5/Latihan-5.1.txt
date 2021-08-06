@@ -1,0 +1,21 @@
+==================================================================================================
+|||////////////////////////////////////////////////////////////////////////////////////////////|||                                                                                                
+|||///////////////////////////PENGERTIAN MYSQLI DAN PDO CONSTRUKTOR////////////////////////////|||
+|||////////////////////////////////////////////////////////////////////////////////////////////|||
+==================================================================================================
++                                                                                                +
++                                                                                                +
++ A. MYSQLI                                                                                      +
++       Adalah ekstensi PHP yang digunakan untuk melakukan koneksi ke database MYSQL.            +
++       Sedangkan untuk huruf "I", memiliki arti improved ( Yang di sempurnakan ).               +
++       Fungsi penggunaan MYSQLI lebih up to date daripada MYSQL.                                +
++                                                                                                +
++ B. PDO                                                                                         +
++       Sebagai perbandingan website dinamis yang bisa dibuat menggunakan PHP adalah             +
++       situs web yang bisa menyesuaikan tampilan konten tergantung pada situasi.                +
++       Sedangkan untuk pembuatan web kode PHP biasanya disisipkan ke dalam dokumen              +
++       html.                                                                                    +
++                                                                                                +
++                                                                                                +
+==================================================================================================
+==================================================================================================

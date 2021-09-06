@@ -16,7 +16,7 @@ $dbname = "SantriIT";
     <title>Mahasantri 2021</title>
 </head>
 <body>
-    <h2>Data SantriIT</h2>
+    <h3>Data SantriIT</h3>
     <table>
         <td>Nama</td>
         <td>Umur</td>

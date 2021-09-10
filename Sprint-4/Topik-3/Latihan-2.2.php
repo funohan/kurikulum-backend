@@ -35,6 +35,7 @@ if(isset($_SESSION["login"])) {
     exit;
 }
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -70,4 +71,3 @@ if(isset($_SESSION["login"])) {
     </div>
 </body>
 </html>
-

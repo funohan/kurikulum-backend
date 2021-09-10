@@ -29,4 +29,3 @@ $data = $pdo->ambilDataPOST();
     
 </body>
 </html>
-

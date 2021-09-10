@@ -44,12 +44,9 @@ $UI = $pdo->getDataPOST();
         <?php endforeach; ?>
         
         </tbody>
+        
     </table>
-    
-
-
-
-    
 
 </body>
+
 </html>

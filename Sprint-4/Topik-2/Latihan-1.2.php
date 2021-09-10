@@ -52,5 +52,3 @@ $data = $pdo->getDataPOST();
 
 </body>
 </html>
-
-

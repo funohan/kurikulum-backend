@@ -1,4 +1,5 @@
 <?php
+
 echo "\n";
 function calcRectangleArea($width, $length)  {
    echo ".=.=.=.=.=.=.=..=.=.=.=.=.=.=.=.\n";
@@ -25,3 +26,4 @@ echo ".=.=.=.=.=.=.=.=.\n";
 echo ".=.=.=.=.=.=.=.=.\n";
 echo "\n";
 
+?>

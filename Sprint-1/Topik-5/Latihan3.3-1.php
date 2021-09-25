@@ -1,4 +1,5 @@
 <?php
+
 $students = [
     [
         'id' => 'IT-001',
@@ -116,3 +117,5 @@ switch ($pilih) {
         echo "\nUlangi perintah yang benar!!!\n.";
         break;
 }
+
+?>

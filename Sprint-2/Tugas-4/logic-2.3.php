@@ -9,7 +9,7 @@ for ($y=1; $y<10; $y++){
             $hasil = ($x*2-2);
             echo"$hasil";
         }else{
-            echo "_";
+            echo " ";
         
         }
     }

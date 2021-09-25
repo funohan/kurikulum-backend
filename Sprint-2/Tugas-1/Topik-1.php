@@ -95,4 +95,5 @@ switch ($pilih) {
         echo "Plihan yang anda pilih tidak tersedia, silahkan pilih ulang!\n";
         break;    
     }
+    
 ?>

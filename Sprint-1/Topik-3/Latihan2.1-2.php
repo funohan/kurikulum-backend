@@ -1,17 +1,10 @@
 <?php
 
-for($x = 0;$x <= 7;$x++){
-    if($x == 1){
-        echo $x;
-        continue;
-    } elseif ($x == 3) {
-        echo $x;
-        continue;
-    } elseif ($x == 5) {
-        echo $x;
-        continue;
-    } elseif ($x == 7) {
-        echo $x;
-        continue;
-    }
+$awal = 1;
+$akhir = 7;
+while($awal <= $akhir){
+    echo $awal;
+    $awal = $awal + 2;
 }
+
+?>

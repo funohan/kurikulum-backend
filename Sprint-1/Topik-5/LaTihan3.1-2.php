@@ -1,6 +1,7 @@
 <?php
+
     echo "==========================\n";
-echo " Menentukan luas segitiga \n";
+    echo " Menentukan luas segitiga \n";
     echo "==========================\n\n";
 
 function luas($a,$t){
@@ -19,5 +20,5 @@ echo "\n";
 echo "==========================\n";
 echo "Arigatou Gozaimasu\n";
 echo "==========================\n";
-?>
 
+?>

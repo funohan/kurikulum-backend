@@ -1,4 +1,5 @@
 <?php
+
 echo "\n";
 echo ".=.=.=.=.=.=.=.=.=.=.=.=.=.=.=.\n";
 echo "    Panjang trapesium    \n";
@@ -23,6 +24,5 @@ echo ".=.=.=.=.=.=.=.=.=.=.=.=.=.=.=.\n";
 echo "Arigatou Gozaimasu\n";
 echo ".=.=.=.=.=.=.=.=.=.=.=.=.=.=.=.\n";
 echo "\n";
-
 
 ?>
